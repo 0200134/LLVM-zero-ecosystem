@@ -16,9 +16,6 @@ It doesn’t deny LLVM’s contribution — it recognizes its limits.
 The project explores how a new generation of compilers  
 can evolve toward **autonomy, simplicity, and sovereignty.**
 
-📊 **View Ecosystem Diagram →**  
-![Ecosystem Diagram](docs/diagram.png)
-
 ---
 
 ## ⚙️ Core Philosophy
