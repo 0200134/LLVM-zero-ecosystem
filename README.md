@@ -86,7 +86,8 @@ You can:
 🧩 **LLVM-Zero Ecosystem — where dependence ends and autonomy begins.**
 
 ---
-
+![GitHub Clones](https://img.shields.io/badge/Clones-2532-brightgreen?style=for-the-badge)
+![Visitors](https://img.shields.io/badge/Visitors-188-blue?style=for-the-badge)
 ## 📜 License
 **MIT License**  
 Free for industrial and research use.
