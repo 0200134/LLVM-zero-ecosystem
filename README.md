@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/banner.png" alt="LLVM-Zero Ecosystem Banner" width="700">
+</p>
+
 # 🧩 LLVM-Zero Ecosystem  
 > “The compiler must learn to breathe on its own.”  
 > From dependence to autonomy — beyond LLVM.
