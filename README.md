@@ -71,10 +71,18 @@ Open an issue labeled `[DISCUSSION]` or join our Idea Pool below.
 ## 🧠 Join the LLVM-Zero Idea Pool
 > “Ideas are the seeds of independence.”
 
-💡 Share your concepts, designs, or compiler visions:  
+Got a vision for post-LLVM evolution?  
+Want to share ideas about compiler autonomy, zero-dependency infrastructure, or transparent pipelines?  
+
+💡 Contribute your concepts, designs, or compiler experiments in our official discussion space:  
 👉 [**LLVM-Zero Idea Pool — 아이디어 수집소**](https://github.com/0200134/LLVM-zero-ecosystem/discussions)
 
-🪶 **LLVM-Zero Ecosystem — where dependence ends and autonomy begins.**
+You can:
+- Post new proposals (`idea`, `architecture`, `abi`, `ltss`, `philosophy`, etc.)
+- Discuss compiler independence and transparency
+- Help shape the future of the LLVM-free ecosystem  
+
+🧩 **LLVM-Zero Ecosystem — where dependence ends and autonomy begins.**
 
 ---
 
